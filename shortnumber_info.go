@@ -1,7 +1,7 @@
 package phonenumbers
 
 import (
-	"github.com/nyaruka/phonenumbers/gen"
+	"github.com/olapsema/phonenumbers/gen"
 	"google.golang.org/protobuf/proto"
 )
 
